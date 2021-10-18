@@ -29,6 +29,5 @@ public class PartTimeTeacher extends Teacher {
     public void setTeacherActiveHoursPerWeek(double teacherActiveHoursPerWeek) {
         this.teacherActiveHoursPerWeek = teacherActiveHoursPerWeek;
     }
-
 }
 

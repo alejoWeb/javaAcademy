@@ -74,5 +74,4 @@ public class Course {
     public void setCourseTeacher(Teacher courseTeacher) {
         this.courseTeacher = courseTeacher;
     }
-
 }

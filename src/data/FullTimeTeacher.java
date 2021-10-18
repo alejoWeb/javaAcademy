@@ -29,6 +29,5 @@ public class FullTimeTeacher extends Teacher {
     public void setTeacherYearsOfExperience(double teacherYearsOfExperience) {
         this.teacherYearsOfExperience = teacherYearsOfExperience;
     }
-
 }
 

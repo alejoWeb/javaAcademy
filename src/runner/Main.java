@@ -254,10 +254,10 @@ public class Main {
                             }
                         }
                     }
-
-
-
-
+                    break;
+                default:
+                    System.out.println("Please enter a valid option");
+                    break;
             }
         } while(optionSelected != 0);
     }
